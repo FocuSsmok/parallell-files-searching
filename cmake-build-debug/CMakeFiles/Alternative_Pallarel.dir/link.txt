@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\Alternative_Pallarel.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\Alternative_Pallarel.dir/objects.a @CMakeFiles\Alternative_Pallarel.dir\objects1.rsp
+C:\TDM-GCC-64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Alternative_Pallarel.dir/objects.a -Wl,--no-whole-archive  -o Alternative_Pallarel.exe -Wl,--out-implib,libAlternative_Pallarel.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Alternative_Pallarel.dir\linklibs.rsp

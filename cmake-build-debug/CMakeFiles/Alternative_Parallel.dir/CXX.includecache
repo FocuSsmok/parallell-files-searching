@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/przeb/CLionProjects/Alternative_Pallarel/main.cpp
+Windows.h
+-
+iostream
+-
+vector
+-
+time.h
+-
+chrono
+-
+algorithm
+-
+iomanip
+-
+sstream
+-
+regex
+-
+omp.h
+-
+
